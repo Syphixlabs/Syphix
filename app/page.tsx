@@ -1,8 +1,8 @@
-import { StarfieldBackground } from "@/components/starfield-background"
-import { LiquidLogo } from "@/components/liquid-logo"
-import { KineticHeadline } from "@/components/kinetic-headline"
-import { PulsingCTA } from "@/components/pulsing-cta"
-import { FloatingParticles } from "@/components/floating-particles"
+import { StarfieldBackground } from "@/components/background"
+import { LiquidLogo } from "@/components/logo"
+import { KineticHeadline } from "@/components/headline"
+import { PulsingCTA } from "@/components/pulsing"
+import { FloatingParticles } from "@/components/particles"
 
 export default function HomePage() {
   return (
