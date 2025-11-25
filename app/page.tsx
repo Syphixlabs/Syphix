@@ -34,9 +34,7 @@ export default function HomePage() {
 
       <div className="absolute bottom-0 left-0 right-0 h-64 bg-gradient-to-t from-black via-black/50 to-transparent z-5 pointer-events-none" />
       <div className="absolute top-0 left-0 right-0 h-64 bg-gradient-to-b from-black/40 to-transparent z-5 pointer-events-none" />
-    <div className="absolute bottom-0 left-0 right-0 h-64 bg-gradient-to-t from-black via-black/50 to-transparent z-5 pointer-events-none" />
-      <div className="absolute top-0 left-0 right-0 h-64 bg-gradient-to-b from-black/40 to-transparent z-5 pointer-events-none" />
-
+      
       <footer className="absolute bottom-0 left-0 right-0 z-20 pb-6 flex justify-center">
         <a
           href="https://github.com/Syphixlabs/Syphix"
