@@ -37,27 +37,6 @@ export function KineticHeadline() {
         ))}
       </div>
 
-      <div className="relative h-px w-48 mx-auto overflow-hidden">
-        <div
-          className={cn(
-            "absolute inset-0 bg-gradient-to-r from-transparent via-white to-transparent",
-            "transition-all duration-1500",
-            isVisible ? "opacity-60 scale-x-100" : "opacity-0 scale-x-0",
-          )}
-          style={{ transitionDelay: "800ms" }}
-        />
-        <div
-          className="absolute inset-0 bg-gradient-to-r from-transparent via-white to-transparent"
-          style={{
-            animationName: isVisible ? "lineShimmer" : "none",
-            animationDuration: "3s",
-            animationTimingFunction: "ease-in-out",
-            animationIterationCount: "infinite",
-            animationDelay: "1.5s",
-          }}
-        />
-      </div>
-
       <div className="flex flex-wrap justify-center gap-x-4 gap-y-2">
         {line2Words.map((word, index) => (
           <span
