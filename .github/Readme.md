@@ -4,7 +4,7 @@
 
 **A cinematic Next.js landing page featuring an explosive STORM-to-SYPHIX logo transformation with particle effects, starfield background, and kinetic typography.**
 
-[SIte](https://syphix.vercel.app) • [Report Bug](https://t.me/SyphixHub) • [Updates](https://t.me/Syphixlabs)
+[Site](https://syphix.vercel.app) • [Report Bug](https://t.me/SyphixHub) • [Updates](https://t.me/Syphixlabs)
 
 </div>
 
